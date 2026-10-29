@@ -1,0 +1,13 @@
+transaction_id,account_age_days,transaction_count_24hr,merchant_category,ip_state
+FOLLOWUP_01,62,0.0,Grocery,GA
+FOLLOWUP_02,325,1.0,Mobile_Wallet,GA
+FOLLOWUP_03,34,2.0,Electronics,
+FOLLOWUP_04,280,0.0,,
+FOLLOWUP_05,259,2.0,Restaurant,TN
+FOLLOWUP_06,57,2.0,Healthcare,GA
+FOLLOWUP_07,312,0.0,Gas_Station,FL
+FOLLOWUP_08,-1,2.0,Grocery,FL
+FOLLOWUP_09,134,1.5,Gas_Station,TN
+FOLLOWUP_10,395,1.0,Online_Retail,FL
+FOLLOWUP_11,143,2.0,Restaurant,GA
+FOLLOWUP_12,248,1.0,Online_Retail,SC
